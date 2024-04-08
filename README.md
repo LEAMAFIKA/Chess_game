@@ -19,9 +19,7 @@ python ChessGame.py
 ```
 
 ## 📺 Demo
-![Screenshot 2024-04-08 at 14.50.25.png](..%2F..%2FDesktop%2FScreenshot%202024-04-08%20at%2014.50.25.png)
-
-
+!![Screenshot 2024-04-08 at 15.11.00.png](images%2FScreenshot%202024-04-08%20at%2015.11.00.png)
 
 ## *Author Name*
 [LEAMAFIKA](https://github.com/LEAMAFIKA/Chess_game)
