@@ -20,7 +20,7 @@ python ChessGame.py
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/userabhibhullar/python-mini-project/blob/main/IMG/chess.jpg" width=70% height=70%>![alt text]
+
 
 ## *Author Name*
 [LEAMAFIKA](https://github.com/LEAMAFIKA/Chess_game)
