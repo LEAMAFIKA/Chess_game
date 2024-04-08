@@ -6,7 +6,7 @@ A simple chess game that you can play with your friend.
 ## ⚙️ Languages or Frameworks Used
 This game is created in python programming language.
 Modules : pygame
-
+(
 ## 🌟 How to runHow to run the script
 Running this game is pretty straight forward.
 
@@ -19,7 +19,8 @@ python ChessGame.py
 ```
 
 ## 📺 Demo
-<p align="center">
+![Screenshot 2024-04-08 at 14.50.25.png](..%2F..%2FDesktop%2FScreenshot%202024-04-08%20at%2014.50.25.png)
+
 
 
 ## *Author Name*
